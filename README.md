@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Solution](https://github.com/morcicek/interactive-component)
-- Live Site URL: [Interactive Component](https://incomparable-granita-a4ae87.netlify.app/)
+- Live Site URL: [Interactive Component](https://glistening-sawine-b2012b.netlify.app)
 
 ## My process
 
